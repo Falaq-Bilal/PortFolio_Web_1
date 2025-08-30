@@ -79465,7 +79465,7 @@ A.Yr.prototype={
 $0(){return A.Jh(this.a,"/contact",t.X)},
 $S:0}
 A.k4.prototype={
-a79(){var s=window.open("assets/Falaq_Bilal_CV.pdf","_blank")
+a79(){var s=window.open("assets/assets/Falaq_Bilal_CV.pdf","_blank")
 A.aGn(s)},
 N_(a){var s,r,q=null,p=A.br(a,q,t.w).w.a,o=A.eU(a,!0).c
 o.toString
